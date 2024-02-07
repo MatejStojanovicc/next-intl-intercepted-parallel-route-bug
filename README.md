@@ -1,0 +1,1 @@
+# next-intl-intercepted-parallel-route-bug
